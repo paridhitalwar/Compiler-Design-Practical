@@ -33,6 +33,9 @@ ifstream fin;
 fin.open("File_1.txt");
 fout.open ("File_1.txt",ios::app); // Append mode
 if(fin.is_open())
+  
+# 1. This is another sample test File. 
+#2. This is the second line of the file.
 fout<< "\n Writing to a file opened from program.\n"; // Writing data 
 to file
 cout<<"\n Data has been appended to file";
