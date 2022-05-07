@@ -109,3 +109,19 @@ print("{: ^20}{: ^20}{: ^20}".format('Non Terminals','First','Follow'))
 for non_terminal in non_terminals:
 print("{: ^20}{: ^20}{: 
 ^20}".format(non_terminal,str(FIRST[non_terminal]),str(FOLLOW[non_terminal])))
+
+
+ #no of terminals-5
+ #enter the terminals:
+ #+
+ #*
+ #a
+ #(
+ #)
+ #enter the productions-
+ #E->TB
+ #B->+TB/@
+ #T->FY
+ #T->*FY/@
+ #F->a/(E)
+ #
