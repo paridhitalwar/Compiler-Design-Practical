@@ -58,3 +58,10 @@ cout<<op2<<endl;
 cout<<op1<<endl;
 return 0;
 }
+
+
+/* parent non terminal-A
+no of productions-2
+production1-A*B
+production2-E
+*/
