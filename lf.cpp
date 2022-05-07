@@ -78,3 +78,15 @@ cout<<"\n"<<prodleft[i]<<"->"<<prodright[i];
 }
 return 0;
 }
+
+
+/*no of productions-4
+left of production1- S
+right of production1- iCtSeS
+left of production2-S
+right of production2-iCtS
+left of production3-S
+right of production3-a
+left of production4-C
+right of production4-b
+*/
