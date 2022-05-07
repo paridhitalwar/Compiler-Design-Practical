@@ -364,7 +364,7 @@ int main (void)
             cout<<str;
             printf("\n");
         /*}*/
-        /*if(ch==2)
+        /*else if(ch==2)
         {
             char exp[30];
             printf("Infix Expression : ");
