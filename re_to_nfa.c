@@ -69,3 +69,6 @@ printf("%d --%c--> %d\n",ret[i],ret[i+1],ret[i+2]);
 printf("\n");
 getch();
 }
+
+
+/*(a|b)*abb*/
