@@ -47,5 +47,7 @@ myFile_Handler.close();
 return 0;
 }
 
-#1. This is another sample test File. 
-#2. This is the second line of the file.
+/*
+1. This is another sample test File. 
+2. This is the second line of the file.
+*/
