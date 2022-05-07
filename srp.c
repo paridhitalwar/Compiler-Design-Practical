@@ -72,3 +72,13 @@ printf("\n$%s\t%s$\t%s",stk,a,ac);
 i=i-2;
 }
 }
+
+
+
+/* E->E+E
+E->E*E
+E->(E)
+E->id
+
+input string- id+id*id+id 
+*/
