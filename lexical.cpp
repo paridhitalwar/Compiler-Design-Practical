@@ -72,3 +72,13 @@ s = "";
 } 
 return 0; 
 }
+
+/*#INPUT-
+#include <stdio.h>
+void main ( )
+{
+int x = 3 ;
+int y = 2 ;
+x = x + y ;
+printf("%d", x);
+*/
