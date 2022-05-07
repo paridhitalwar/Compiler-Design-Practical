@@ -256,3 +256,9 @@ temp = pop();
 insert(temp);
 }
 return;
+}
+
+
+/*
+infix expression- A+B^C/R
+*/
